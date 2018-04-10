@@ -1,0 +1,2 @@
+export const GET_MASTERS = 'GET_MASTERS'
+export const MASTERS_FILTERS = 'MASTERS_FILTERS'

@@ -1,0 +1,14 @@
+.masterList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.masterBlock {
+    margin: 10px;
+    width: 150px;
+}
+
+.masterName {
+    font-weight: bold;
+}
